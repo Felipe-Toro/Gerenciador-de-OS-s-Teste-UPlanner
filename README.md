@@ -1,7 +1,6 @@
 # Your Orders (your-orders)
 
-A Quasar Framework app
-
+Programa utilizando Vue.Js e Quasar.Js, uma bilbioteca para o próprio Vue.
 ## Install the dependencies
 ```bash
 npm install
